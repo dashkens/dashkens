@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey there! 👋
+---
+Embarikng my journey as a Full Stack || Frontend developer! 🌐✨ 
+Currently, I am redoing my old projects and developing new ones, so do not hestitate to dive into my GitHub to see the projects and progress! :)  
 
-<!--
-**dashkens/dashkens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- HTML
+- CSS (Bootstrap, Tailwind)
+- JavaScript
+- React.js
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+- PHP
+- MySQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Even though I am a beginner, I am eager to learn, motivated, and excited about the journey ahead in becoming a skilled developer. Cheers to coding adventures! 🚀👩‍💻
