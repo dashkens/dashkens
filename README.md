@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-Embarikng my journey as a Full Stack || Frontend developer! 🌐✨ 
+Embarking my journey as a Full Stack || Frontend developer! 🌐✨ 
 Currently, I am redoing my old projects and developing new ones, so do not hestitate to dive into my GitHub to see the projects and progress! :)  
 
 ### Skills 💻
